@@ -3,7 +3,7 @@
 </script>
 <template>
 <div>
-    <div class="flex justify-center mt-5 mb-9">
+    <div class="flex justify-center mt-5 mb-2">
         <div class="flex flex-row gap-2">
             <div class=" h-48 w-28 rounded-lg flex flex-wrap flex-col justify-center items-center  bg-[#303031]">
                 <div class="">
@@ -30,7 +30,7 @@
             <!-- <div class="h-10 w-10 absolute rounded-full bg-[#3E4042]"></div> -->
         </div>
     </div>
-    <div class="flex flex-col gap-3 p-10">
+    <div class="flex flex-col gap-3 px-10">
         <div class="px-20 py-20 bg-[#303031] rounded-lg">
             post 1
         </div>
