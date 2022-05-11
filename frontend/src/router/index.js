@@ -7,6 +7,7 @@ import index from '../views/index.vue'
 // child components
 import home from '../views/components/home.vue'
 import watch from '../views/components/watch.vue'
+import marketplace from '../views/components/marketplace.vue'
 
 
 const router = createRouter({
@@ -32,9 +33,18 @@ const router = createRouter({
           path:"watch",
           name:"watch",
           component:watch,
+        },
+        {
+          path:"marketplace",
+          name:"marketplace",
+          component:marketplace
         }
       ]
     },
+    {
+      path:"/",
+      redirect:"/dashboard"
+    }
   ],
   linkActiveClass:"active",
   linkExactActiveClass:"exact"

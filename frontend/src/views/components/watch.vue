@@ -67,7 +67,7 @@
 
     <!-- Content -->
 
-    <div class="col-span-9 pt-3 hover:overflow-y-scroll overflow-hidden">
+    <div class="col-span-9 pt-3 overflow-y-scroll">
         <div class="flex flex-col items-center gap-3">
             <div class="h-fit w-2/3 p-5 bg-[#242526] rounded-lg ">
                 

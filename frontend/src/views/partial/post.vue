@@ -6,7 +6,7 @@
     <div class="flex justify-center mt-5 mb-2">
         <div class="flex flex-row gap-2">
             <div class=" h-48 w-28 rounded-lg flex flex-wrap flex-col justify-center items-center  bg-[#303031]">
-                <div class="">
+                <div class="w-full">
                     <img src="@/assets/profile.jpg " />
                 </div>
                 <span class="font-bold text-sm mb-4">Buat Cerita</span>

@@ -8,7 +8,7 @@ import rightbar from '../partial/rightbar.vue'
         <div class="col-span-2 hover:overflow-y-auto overflow-hidden  ">
             <leftbar />
         </div>
-        <div class="col-span-4 hover:overflow-auto overflow-hidden">
+        <div class="col-span-4 overflow-auto">
             <post />
         </div>
         <div class="col-span-2 hover:overflow-y-auto overflow-hidden">
