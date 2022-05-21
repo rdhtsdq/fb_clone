@@ -8,6 +8,8 @@ import index from '../views/index.vue'
 import home from '../views/components/home.vue'
 import watch from '../views/components/watch.vue'
 import marketplace from '../views/components/marketplace.vue'
+import game from '../views/components/game.vue'
+import group from '../views/components/group.vue'
 
 
 const router = createRouter({
@@ -38,6 +40,16 @@ const router = createRouter({
           path:"marketplace",
           name:"marketplace",
           component:marketplace
+        },
+        {
+          path:"group",
+          name:"group",
+          component:group
+        },
+        {
+          path:"game",
+          name:"game",
+          component:game
         }
       ]
     },
