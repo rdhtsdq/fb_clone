@@ -23,10 +23,10 @@
         <div class="flex flex-col mb-3">
             <div class="px-3 py-2 bg-[#3A3B3C] rounded-lg flex gap-2 align-middle">
                 <div class="p-1 bg-[#1877F2] rounded-full">
-                    <svg viewBox="0 0 24 24" class="h-5 w-5 fill-white" active-class="h-4 w-4 fill-[#1877F2]" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1"><path d="M14.823 11.708a.325.325 0 0 1 .169.292.314.314 0 0 1-.12.266L9.5 14.954a.337.337 0 0 1-.5-.293V9.339a.327.327 0 0 1 .168-.292.314.314 0 0 1 .157-.042.462.462 0 0 1 .228.068zM24 5v14a5.006 5.006 0 0 1-5 5H5a5.006 5.006 0 0 1-5-5V5a5.006 5.006 0 0 1 5-5h14a5.006 5.006 0 0 1 5 5zm-7.008 7a2.332 2.332 0 0 0-1.226-2.055L10.488 7.31a2.337 2.337 0 0 0-3.5 2.029v5.322a2.313 2.313 0 0 0 1.164 2.021 2.368 2.368 0 0 0 1.186.323 2.2 2.2 0 0 0 1.1-.289l5.376-2.687A2.313 2.313 0 0 0 16.992 12z"/></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" id="Filled" viewBox="0 0 24 24" class="h-5 w-5 fill-white"  fill="#B0B3B8"><path d="M16,13a5,5,0,0,1-8,0,4.956,4.956,0,0,1-7,.977V19a5.006,5.006,0,0,0,5,5H18a5.006,5.006,0,0,0,5-5V13.974A4.956,4.956,0,0,1,16,13Z"/><path d="M21.7,3.131A3.975,3.975,0,0,0,17.792,0H17V3a1,1,0,0,1-2,0V0H9V3A1,1,0,0,1,7,3V0H6.208A3.975,3.975,0,0,0,2.3,3.132L1.022,8.9,1,10.02A3,3,0,0,0,7,10a1,1,0,0,1,2,0,3,3,0,1,0,6,0,1,1,0,0,1,2,0,3,3,0,1,0,6,0V9.107Z"/></svg>
                 </div>
                 <h1 class="mt-2 text-sm">
-                    Beranda
+                    Telusuri Semua
                 </h1>
             </div>
             <div class="px-3 py-1 bg-[#242526] hover:bg-[#3A3B3C] rounded-lg flex gap-2 align-middle">
@@ -36,31 +36,73 @@
                     </svg>
                 </div>
                 <h1 class="mt-2 text-sm">
-                    Siaran Langsung
+                    Live shopping
                 </h1>
             </div>
             <div class="px-3 py-1 bg-[#242526] hover:bg-[#3A3B3C] rounded-lg flex gap-2 align-middle">
 
                 <div class="p-2 bg-[#414446] rounded-full">
-                    <svg id="Layer_1" viewBox="0 0 24 24" class="h-4 w-4 fill-white" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1"><path d="m19.051 0h-14a5.006 5.006 0 0 0 -5 5v14a5.006 5.006 0 0 0 5 5h14a5.006 5.006 0 0 0 5-5v-14a5.006 5.006 0 0 0 -5-5zm1 11h2v2h-2zm0-2v-2h2v2zm-16 4h-2v-2h2zm1.949 0v-2h12v2zm-1.949-4h-2v-2h2zm-2 6h2v2h-2zm18 0h2v2h-2zm2-10h-2v-2.816a3 3 0 0 1 2 2.816zm-18-2.816v2.816h-2a3 3 0 0 1 2-2.816zm-2 16.816h2v2.816a3 3 0 0 1 -2-2.816zm18 2.816v-2.816h2a3 3 0 0 1 -2 2.816z"/></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bell-fill" viewBox="0 0 16 16">
+                        <path d="M8 16a2 2 0 0 0 2-2H6a2 2 0 0 0 2 2zm.995-14.901a1 1 0 1 0-1.99 0A5.002 5.002 0 0 0 3 6c0 1.098-.5 6-2 7h14c-1.5-1-2-5.902-2-7 0-2.42-1.72-4.44-4.005-4.901z"/>
+                    </svg>
                 </div>
                 <h1 class="mt-2 text-sm">
-                    Acara
+                    Notifikasi
                 </h1>
             </div>
             <div class="px-3 py-1 bg-[#242526] hover:bg-[#3A3B3C] rounded-lg flex gap-2 align-middle">
                 <div class="p-2 bg-[#414446] rounded-full">
-                    <svg xmlns="http://www.w3.org/2000/svg" id="Filled" viewBox="0 0 24 24" class="w-4 h-4 fill-white"><path d="M2.849,23.55a2.954,2.954,0,0,0,3.266-.644L12,17.053l5.885,5.853a2.956,2.956,0,0,0,2.1.881,3.05,3.05,0,0,0,1.17-.237A2.953,2.953,0,0,0,23,20.779V5a5.006,5.006,0,0,0-5-5H6A5.006,5.006,0,0,0,1,5V20.779A2.953,2.953,0,0,0,2.849,23.55Z"/></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-lines-fill" viewBox="0 0 16 16">
+                        <path d="M6 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-5 6s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H1zM11 3.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 0 1h-4a.5.5 0 0 1-.5-.5zm.5 2.5a.5.5 0 0 0 0 1h4a.5.5 0 0 0 0-1h-4zm2 3a.5.5 0 0 0 0 1h2a.5.5 0 0 0 0-1h-2zm0 3a.5.5 0 0 0 0 1h2a.5.5 0 0 0 0-1h-2z"/>
+                    </svg>
                 </div>
                 <h1 class="mt-2 text-sm">
-                    Video Tersimpan
+                    Kontak Masuk
                 </h1>
+            </div>
+            <div class="px-3 py-1 bg-[#242526] hover:bg-[#3A3B3C] rounded-lg flex gap-2 align-middle">
+                <div class="p-2 bg-[#414446] rounded-full">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-basket-fill" viewBox="0 0 16 16">
+                        <path d="M5.071 1.243a.5.5 0 0 1 .858.514L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15.5a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.5.5H15v5a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V9H.5a.5.5 0 0 1-.5-.5v-2A.5.5 0 0 1 .5 6h1.717L5.07 1.243zM3.5 10.5a.5.5 0 1 0-1 0v3a.5.5 0 0 0 1 0v-3zm2.5 0a.5.5 0 1 0-1 0v3a.5.5 0 0 0 1 0v-3zm2.5 0a.5.5 0 1 0-1 0v3a.5.5 0 0 0 1 0v-3zm2.5 0a.5.5 0 1 0-1 0v3a.5.5 0 0 0 1 0v-3zm2.5 0a.5.5 0 1 0-1 0v3a.5.5 0 0 0 1 0v-3z"/>
+                    </svg>
+                </div>
+                <h1 class="mt-2 text-sm">
+                    Beli
+                </h1>
+            </div>
+            <div class="px-3 py-1 bg-[#242526] hover:bg-[#3A3B3C] rounded-lg flex gap-2 align-middle">
+                <div class="p-2 bg-[#414446] rounded-full">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-tag-fill" viewBox="0 0 16 16">
+                        <path d="M2 1a1 1 0 0 0-1 1v4.586a1 1 0 0 0 .293.707l7 7a1 1 0 0 0 1.414 0l4.586-4.586a1 1 0 0 0 0-1.414l-7-7A1 1 0 0 0 6.586 1H2zm4 3.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/>
+                    </svg>
+                </div>
+                <h1 class="mt-2 text-sm">
+                    Jual
+                </h1>
+            </div>
+
+            <div class="flex justify-center rounded-lg py-2 mt-5 bg-blue-900 text-blue-400 font-bold">
+                <p>+ Jual Barang</p>
             </div>
         </div>
 
         <hr class="border-[1px] border-[#3c3b3b]">
 
-        <h1 class="font-bold text-md mt-3">Daftar Tontonan Anda</h1>
+        <h1 class="font-bold text-md mt-3">Filter</h1>
+
+        <div class="flex">
+            <a href="" class="font-bold text-blue-400">Bandung . Dalam 60 Kilometer</a>
+        </div>
+
+        <hr class="border-[1px] my-3 border-[#3c3b3b]">
+
+        <h1 class="font-bold text-md">
+            Kategori
+        </h1>
+
+        <div class="flex">
+                    
+        </div>
     </div>
 
     <!-- Side Bar -->
